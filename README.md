@@ -14,15 +14,3 @@
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" target="_blank" alt="lua">
     </a>
 </div>
-<hr>
-<div align='center'>
-    <h4>
-        • Nome: Gustavo
-        <br>
-        • Idade: 16
-        <br>
-        • Infos: Estudante da Faculdade Senac Joinville
-        <br>
-        • Area: Estudante de T.I(Técnico em Informática)
-    </h4>
-</div>
