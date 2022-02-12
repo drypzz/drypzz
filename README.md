@@ -13,4 +13,7 @@
     <a href="https://github.com/zAlveSCR" target="_blank">
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" target="_blank" alt="lua">
     </a>
+    <a href="https://github.com/zAlveSCR" target="_blank">
+        <img src="https://img.shields.io/badge/JS-6200ff?&style=for-the-badge&logo=javascript&logoColor=white" target="_blank" alt="lua">
+    </a>
 </div>
