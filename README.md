@@ -1,9 +1,11 @@
-<div align='center'>
-    <a target="_blank" href="https://www.instagram.com/_gustavoaap/">
-        <img src="https://img.shields.io/badge/INSTAGRAM-ff006f?style=for-the-badge&logo=INSTAGRAM&logoColor=fff" alt="html">
-    </a>
-    <hr>
+<div align='left'>
+    <span>💻 - <i>Frontend developer - Medium</i><br></span>
+    <span>💻 - <i>Backend developer - Beginner</i><br></span>
+    <span>🔧 - <i>Developer Assistant at ALLIANCE Virtual</i><br></span>
+    <span>📚 - <i>Programming Student and T.I student</i><br></span>
+    <span>🥶 - <i>BR | SC (47)</i></span>
 </div>
+<hr>
 <div align='center'>
     <img height="180em" aling="center" src="https://github-readme-stats.vercel.app/api?username=drypzz&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
     <img height="180em" aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drypzz&layout=compact&langs_count=10&theme=nightowl"/>
@@ -22,5 +24,8 @@
     </a>
     <a target="_blank" href="https://github.com/drypzz">
         <img src="https://img.shields.io/badge/JavaScript-ffee00?&style=for-the-badge&logo=javascript&logoColor=black" alt="js">
+    </a>
+    <a target="_blank" href="https://github.com/drypzz">
+        <img src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=fff" target="_blank" alt="php">
     </a>
 </div>
