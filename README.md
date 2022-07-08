@@ -1,9 +1,6 @@
 <div align='left'>
-    <span>💻 - <i>Frontend developer - Medium</i><br></span>
-    <span>💻 - <i>Backend developer - Beginner</i><br></span>
+    <span>💻 - <i>Website Developer - Medium</i><br></span>
     <span>🔧 - <i>Developer Assistant at ALLIANCE Virtual</i><br></span>
-    <span>📚 - <i>Programming Student and T.I student</i><br></span>
-    <span>🥶 - <i>BR | SC (47)</i></span>
 </div>
 <hr>
 <div align='center'>
@@ -14,18 +11,18 @@
 <br>
 <div align='center'>
     <a target="_blank" href="https://github.com/drypzz">
-        <img src="https://img.shields.io/badge/HTML5-ff7f36?style=for-the-badge&logo=html5&logoColor=fff" alt="html">
-    </a>
-    <a target="_blank" href="https://github.com/drypzz">
-        <img src="https://img.shields.io/badge/CSS3-206991?&style=for-the-badge&logo=css3&logoColor=white" alt="css">
-    </a>
-    <a target="_blank" href="https://github.com/drypzz">
-        <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua">
-    </a>
-    <a target="_blank" href="https://github.com/drypzz">
-        <img src="https://img.shields.io/badge/JavaScript-ffee00?&style=for-the-badge&logo=javascript&logoColor=black" alt="js">
-    </a>
-    <a target="_blank" href="https://github.com/drypzz">
-        <img src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=fff" target="_blank" alt="php">
+        <div dir='auto'>
+            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="30" alt="html5">
+            -
+            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" alt="js">
+            -
+            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" alt="php">
+            -
+            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="30" alt="css3">
+            -
+            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg" width="30" alt="lua">
+            -
+            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="30" alt="mysql">
+        </div>
     </a>
 </div>
