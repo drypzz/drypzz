@@ -2,7 +2,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=drypzz)](https://github.com/drypzz) [![GitHub followers](https://img.shields.io/github/followers/drypzz.svg?style=social&label=Follow)](https://github.com/drypzz?tab=followers)
 
-### Welcome to my github 👌
+### Welcome to my github - 👌
 My name is Gustavo, I'm 17 years old, my nickname is elseif and I'm a dreamy developer
 
 ### :clipboard: Technologies:
@@ -14,7 +14,7 @@ My name is Gustavo, I'm 17 years old, my nickname is elseif and I'm a dreamy dev
   ![HTML](https://img.shields.io/badge/html5-fc9149?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/css3-4997fc?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Tools
+### 🚀 - Tools
 
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
