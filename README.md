@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=drypzz)](https://github.com/drypzz) [![GitHub followers](https://img.shields.io/github/followers/drypzz.svg?style=social&label=Follow)](https://github.com/drypzz?tab=followers)
+
 ### Welcome to my github 👌
 My name is Gustavo, I'm 17 years old, my nickname is elseif and I'm a dreamy developer
 
