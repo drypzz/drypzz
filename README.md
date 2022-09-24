@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-[![Discord](https://img.shields.io/discord/1013833376060420117?color=%238109d6&label=So%20Macaco)](https://discord.gg/EM3Jf8hpvd)
+[![Discord](https://img.shields.io/discord/1013833376060420117?color=%238109d6&label=Discord%20de%20Aleatórios)](https://discord.gg/EM3Jf8hpvd)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=drypzz)](https://github.com/drypzz) [![GitHub followers](https://img.shields.io/github/followers/drypzz.svg?style=social&label=Follow)](https://github.com/drypzz?tab=followers)
 
 ### Welcome to my github - 👌
