@@ -31,7 +31,6 @@ My name is Gustavo, I'm 17 years old, my nickname is elseif and I'm a dreamy dev
 <br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drypzz&theme=tokyonight&fire=DD6400&ring=DD6400&currStreakNum=DD985F&stroke=484848)](https://git.io/streak-stats)
-[![nosphery stats](https://github-readme-stats.vercel.app/api?username=drypzz&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/drypzz/)
 
 <div align="center">
   
