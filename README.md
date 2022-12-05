@@ -8,7 +8,7 @@ My name is Gustavo, I'm 17 years old, my nickname is elseif and I'm a dreamy dev
 ### 📷 - Social
 
   [![INSTAGRAM](https://img.shields.io/badge/instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gustavoaap/)
-  [![LINKEDIN](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.instagram.com/_gustavoaap/](https://www.linkedin.com/in/gustavo-adriano-alves-palmeira-960a9a23b/))
+  [![LINKEDIN](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-adriano-alves-palmeira-960a9a23b/)
   
 ### My portfolio - 💻
 <a href="https://drypzz.github.io/"><i>👉 Click here 👈</i></a>
