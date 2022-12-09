@@ -3,29 +3,31 @@
 [![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=drypzz)](https://github.com/drypzz) [![GitHub followers](https://img.shields.io/github/followers/drypzz.svg?style=social&label=Followers)](https://github.com/drypzz?tab=followers)
 
 ### Welcome to my github - 👌
-My name is Gustavo, I'm 17 years old, my nickname is elseif and I'm a dreamy developer
+My name is Gustavo, I'm 17 years old, my nickname is elseif and I'm a dreamy developer.
 
 ### 📷 - Social
 
   [![INSTAGRAM](https://img.shields.io/badge/instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gustavoaap/)
   [![LINKEDIN](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-adriano-alves-palmeira-960a9a23b/)
   
-### My portfolio - 💻
-<a href="https://drypzz.github.io/"><i>👉 Click here 👈</i></a>
+### 💻 - My portfolio
+
+[![BUTTON](https://img.shields.io/badge/Click_Here-037edb?style=for-the-badge&logoColor=white)](https://drypzz.github.io/)
 
 ### :clipboard: Technologies:
 
-  ![MTA-LUA](https://img.shields.io/badge/MTA_LUA-732cc9?style=for-the-badge&logo=lua&logoColor=white)
+  ![LUA](https://img.shields.io/badge/LUA-040484?style=for-the-badge&logo=lua&logoColor=white)
   ![PHP](https://img.shields.io/badge/PhP-777BB3?style=for-the-badge&logo=php&logoColor=white)
-  ![JS](https://img.shields.io/badge/js-ffbf00?style=for-the-badge&logo=javascript&logoColor=black)
-  ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![JS](https://img.shields.io/badge/js-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
+  ![MYSQL](https://img.shields.io/badge/MySQL-0075bf?style=for-the-badge&logo=mysql&logoColor=white)
   ![PHPMYADMIN](https://img.shields.io/badge/phpMyAdmin-f89c0e?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-  ![HTML](https://img.shields.io/badge/html5-fc9149?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/css3-4997fc?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML](https://img.shields.io/badge/html5-f06529?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🚀 - Tools
 
-  ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+  ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)
 
 <details>
   <summary>💬 Contact</summary>
