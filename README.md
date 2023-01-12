@@ -17,19 +17,19 @@ My name is Gustavo, I'm 17 years old, my nickname is elseif and I'm a dreamy dev
 
 ### :clipboard: Technologies:
 
-![LUA](https://img.shields.io/badge/LUA-040484?style=for-the-badge&logo=lua&logoColor=white)
-![PHP](https://img.shields.io/badge/PhP-777BB3?style=for-the-badge&logo=php&logoColor=white)
-![JS](https://img.shields.io/badge/js-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
-![MYSQL](https://img.shields.io/badge/MySQL-0075bf?style=for-the-badge&logo=mysql&logoColor=white)
+[![LUA](https://img.shields.io/badge/LUA-040484?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org)
+[![PHP](https://img.shields.io/badge/PhP-777BB3?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![JS](https://img.shields.io/badge/js-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![MYSQL](https://img.shields.io/badge/MySQL-0075bf?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 <br>
-![PHPMYADMIN](https://img.shields.io/badge/phpMyAdmin-f89c0e?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-f06529?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
+[![PHPMYADMIN](https://img.shields.io/badge/phpMyAdmin-f89c0e?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net)
+[![HTML](https://img.shields.io/badge/html5-f06529?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/css3-2965f1?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/css)
 
 ### 🚀 - Tools
 
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 
 <details>
   <summary>💬 Contact</summary>
