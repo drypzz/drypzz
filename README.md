@@ -30,13 +30,6 @@ My name is Gustavo, I'm 17 years old, my nickname is elseif and I'm a dreamy dev
 
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
-
-<details>
-  <summary>💬 Contact</summary>
-   </br><img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-    <string>elseif#0773</string>
-   </br>
-</details> 
   
 <br/>
 
