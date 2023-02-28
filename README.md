@@ -26,7 +26,7 @@ My name is Gustavo, I'm 17 years old, my nickname is elseif and I'm a dreamy dev
 [![PHPMYADMIN](https://img.shields.io/badge/phpMyAdmin-f89c0e?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net)
 [![HTML](https://img.shields.io/badge/html5-f06529?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/css3-2965f1?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/css)
-[![REACT-NATIVE](https://img.shields.io/badge/React%20Native-5f9ea0?style=for-the-badge&logo=react&logoColor=white)](https://pt-br.reactjs.org)
+[![REACT-NATIVE](https://img.shields.io/badge/React%20Native-5f9ea0?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev)
 
 ### 🚀 - Tools
 
