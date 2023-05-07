@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/drypzz.svg?style=social&label=Followers)](https://github.com/drypzz)
 
 ### Welcome to my github - 👌
-My name is Gustavo, I'm 17 years old, my nickname is elseif and I'm a dreamy developer.
+My name is Gustavo, I'm 17 years old, my nickname is drypzz and I'm a dreamy developer.
 
 ### 📷 - Social
 
