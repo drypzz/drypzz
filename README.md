@@ -11,6 +11,10 @@ My name is Gustavo, I'm 17 years old, my nickname is drypzz and I'm a dreamy dev
 [![INSTAGRAM](https://img.shields.io/badge/instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gustavoaap/)
 [![LINKEDIN](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoaap/)
 
+### 💻 - Portfolio
+
+[![PORTFOLIO](https://img.shields.io/badge/portfolio-359acc?style=for-the-badge&logo=opera&logoColor=white)](https://drypzz.netlify.app/)
+
 ### :clipboard: Technologies:
 
 [![LUA](https://img.shields.io/badge/LUA-040484?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org)
