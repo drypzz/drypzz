@@ -19,7 +19,7 @@ My name is Gustavo, I'm 17 years old, my nickname is drypzz and I'm a dreamy dev
 
 [![LUA](https://img.shields.io/badge/LUA-040484?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org)
 [![PHP](https://img.shields.io/badge/PhP-777BB3?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![JS](https://img.shields.io/badge/js-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![JS](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![MYSQL](https://img.shields.io/badge/MySQL-0075bf?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![REACTJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://pt-br.reactjs.org)
 <br>
@@ -27,6 +27,7 @@ My name is Gustavo, I'm 17 years old, my nickname is drypzz and I'm a dreamy dev
 [![HTML](https://img.shields.io/badge/html5-f06529?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/css3-2965f1?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/css)
 [![REACT-NATIVE](https://img.shields.io/badge/React%20Native-5f9ea0?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev)
+[![NEXTJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nextjs.org)
 
 ### 🚀 - Tools
 
