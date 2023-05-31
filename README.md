@@ -32,7 +32,6 @@ My name is Gustavo, I'm 17 years old, my nickname is drypzz and I'm a dreamy dev
 ### 🚀 - Tools
 
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
   
 <br/>
 
