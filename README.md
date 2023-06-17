@@ -3,48 +3,69 @@
 [![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=drypzz)](https://github.com/drypzz)
 [![GitHub followers](https://img.shields.io/github/followers/drypzz.svg?style=social&label=Followers)](https://github.com/drypzz)
 
-### Welcome to my github - 👌
-My name is Gustavo, I'm 17 years old, my nickname is drypzz and I'm a dreamy developer.
+---
 
-### 📷 - Social
+### 👋 Hello! Welcome to my Github profile.
+My name is Gustavo and my nickname is "drypzz"!
 
-[![INSTAGRAM](https://img.shields.io/badge/instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gustavoaap/)
-[![LINKEDIN](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoaap/)
+---
 
-### 💻 - Portfolio
+### 🔗 - Links ↴
 
-[![PORTFOLIO](https://img.shields.io/badge/portfolio-359acc?style=for-the-badge&logo=opera&logoColor=white)](https://drypzz.netlify.app/)
+<div>
+  <a href="https://www.instagram.com/_gustavoaap/">↳ <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=40 heigth=40 alt="Instagram" title="Instagram" /> ↲</a>
+  ᲼
+  <a href="https://www.linkedin.com/in/gustavoaap/">↳ <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width=40 heigth=40 alt="Linkedin" title="Linkedin" /> ↲</a>
+  ᲼
+  <a href="https://www.facebook.com/profile.php?id=100013921232990">↳ <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width=40 heigth=40 alt="Facebook" title="Facebook" /> ↲</a>
+</div>
 
-### :clipboard: Technologies:
+---
 
-[![LUA](https://img.shields.io/badge/LUA-040484?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org)
-[![PHP](https://img.shields.io/badge/PhP-777BB3?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![JS](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![MYSQL](https://img.shields.io/badge/MySQL-0075bf?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![REACTJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://pt-br.reactjs.org)
-<br>
-[![PHPMYADMIN](https://img.shields.io/badge/phpMyAdmin-f89c0e?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net)
-[![HTML](https://img.shields.io/badge/html5-f06529?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/css3-2965f1?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/css)
-[![REACT-NATIVE](https://img.shields.io/badge/React%20Native-5f9ea0?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev)
-[![NEXTJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nextjs.org)
+### 💻 - Portfolio ↴
 
-### 🚀 - Tools
+<div>
+  <a href="https://drypzz.netlify.app/">↳ <img src="https://cdn-icons-png.flaticon.com/512/2721/2721720.png" width=40 heigth=40 alt="Portfolio" title="Portfolio" /> ↲</a>
+</div>
 
-[![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-  
-<br/>
+---
 
-<img src="https://lanyard.cnrad.dev/api/467758059796561930">
+### :clipboard: - Technologies ↴
 
-<br/>
+<div>
+  <a href="https://www.lua.org">↳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width=40 heigth=40 alt="Lua" title="Lua" /> ↲</a>
+  ᲼
+  <a href="https://www.php.net">↳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=40 heigth=40 alt="PHP" title="PHP" /> ↲</a>
+  ᲼
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">↳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 heigth=40 alt="Javascript" title="Javascript" /> ↲</a>
+  ᲼
+  <a href="https://www.mysql.com">↳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40 heigth=40 alt="MySQL" title="MySQL" /> ↲</a>
+  ᲼
+  <a href="https://react.dev">↳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 heigth=40 alt="ReactJS" title="ReactJS" /> ↲</a>
+  ᲼
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">↳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 heigth=40 alt="HTML5" title="HTML5" /> ↲</a>
+  ᲼
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">↳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 heigth=40 alt="CSS3" title="CSS3" /> ↲</a>
+  ᲼
+  <a href="https://reactnative.dev">↳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 heigth=40 alt="React Native" title="React Native" /> ↲</a>
+  ᲼
+  <a href="https://nextjs.org">↳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 heigth=40 alt="NextJS" title="NextJS" /> ↲</a>
+</div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drypzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/drypzz)
-<br/>
-[![GitHub Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=drypzz&show_icons=true&theme=radical)](https://github.com/drypzz)
+---
+
+### 🚀 - Tools ↴
+
+<a href="https://code.visualstudio.com">↳ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=40 heigth=40 alt="VS Code" title="VS Code" /> ↲</a>
+
+---
 
 <div align="center">
   
   ![Snake animation](https://github.com/drypzz/drypzz/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+---
+
+© Made by drypzz
