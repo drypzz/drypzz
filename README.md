@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+<img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 [![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=drypzz)](https://github.com/drypzz)
 [![GitHub followers](https://img.shields.io/github/followers/drypzz.svg?style=social&label=Followers)](https://github.com/drypzz)
