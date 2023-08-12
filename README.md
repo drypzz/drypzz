@@ -60,6 +60,40 @@ My name is Gustavo and my nickname is "drypzz"!
 
 ---
 
+<details><summary> <h3> :trophy: Troféus do perfil Git </h3></summary>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drypzz&layout=compact&theme=onedark&column=4&margin-w=15&margin-h=15" alt="Z4Dev" /></a> </p>
+</details>
+
+<details><summary><h3> :open_file_folder: Repositórios</h3></summary>
+<div>
+  <p align="center">
+	    <a href="https://github.com/Z4Dev/to-do/">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=drypzz.dev&theme=dark" alt="GitHub Stats" />
+    	</a>
+	    <a href="https://github.com/Z4Dev/MorenuEncomenda-Dropado-">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=2022_&theme=dark" alt="GitHub Stats" />
+    	</a>
+	    <a href="https://github.com/Z4Dev/Google">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-discover&theme=dark" alt="GitHub Stats" />
+    	</a>
+	    <a href="https://github.com/Z4Dev/node-simple-shortener/">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=app-game&theme=dark" alt="GitHub Stats" />
+    	</a>
+      <a href="https://github.com/Z4Dev/node-simple-shortener/">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=repo-rev&theme=dark" alt="GitHub Stats" />
+    	</a>
+      <a href="https://github.com/Z4Dev/node-simple-shortener/">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=rick-and-morty-api&theme=dark" alt="GitHub Stats" />
+    	</a>
+      <a href="https://github.com/Z4Dev/node-simple-shortener/">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=mta_res&theme=dark" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
+
+---
+
 <div align="center">
   
   ![Snake animation](https://github.com/drypzz/drypzz/blob/output/github-contribution-grid-snake.svg)
