@@ -67,7 +67,7 @@ My name is Gustavo and my nickname is "drypzz"!
 <details><summary><h3> :open_file_folder: - Repositórios</h3></summary>
 <div>
   <p align="center">
-	    <a href="https://github.com/drypzz/drypzz.de/">
+	    <a href="https://github.com/drypzz/drypzz.dev/">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=drypzz.dev&theme=dark" alt="GitHub Stats" />
     	</a>
 	    <a href="https://github.com/drypzz/2022_">
