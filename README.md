@@ -60,32 +60,32 @@ My name is Gustavo and my nickname is "drypzz"!
 
 ---
 
-<details><summary> <h3> :trophy: Troféus do perfil Git </h3></summary>
+<details><summary><h3> :trophy: - Troféus do perfil Git </h3></summary>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drypzz&layout=compact&theme=onedark&column=4&margin-w=15&margin-h=15" alt="Z4Dev" /></a> </p>
 </details>
 
-<details><summary><h3> :open_file_folder: Repositórios</h3></summary>
+<details><summary><h3> :open_file_folder: - Repositórios</h3></summary>
 <div>
   <p align="center">
-	    <a href="https://github.com/Z4Dev/to-do/">
+	    <a href="https://github.com/drypzz/drypzz.de/">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=drypzz.dev&theme=dark" alt="GitHub Stats" />
     	</a>
-	    <a href="https://github.com/Z4Dev/MorenuEncomenda-Dropado-">
+	    <a href="https://github.com/drypzz/2022_">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=2022_&theme=dark" alt="GitHub Stats" />
     	</a>
-	    <a href="https://github.com/Z4Dev/Google">
+	    <a href="https://github.com/drypzz/api-discover">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-discover&theme=dark" alt="GitHub Stats" />
     	</a>
-	    <a href="https://github.com/Z4Dev/node-simple-shortener/">
+	    <a href="https://github.com/drypzz/app-game/">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=app-game&theme=dark" alt="GitHub Stats" />
     	</a>
-      <a href="https://github.com/Z4Dev/node-simple-shortener/">
+      <a href="https://github.com/drypzz/repo-rev/">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=repo-rev&theme=dark" alt="GitHub Stats" />
     	</a>
-      <a href="https://github.com/Z4Dev/node-simple-shortener/">
+      <a href="https://github.com/drypzz/rick-and-morty-api/">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=rick-and-morty-api&theme=dark" alt="GitHub Stats" />
     	</a>
-      <a href="https://github.com/Z4Dev/node-simple-shortener/">
+      <a href="https://github.com/drypzz/mta_res/">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=mta_res&theme=dark" alt="GitHub Stats" />
     	</a>
   </p>
