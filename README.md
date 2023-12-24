@@ -73,7 +73,7 @@ My name is Gustavo and my nickname is "drypzz"!
 		<a href="https://github.com/drypzz/api-discover">
 	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-discover&theme=dark" alt="GitHub Stats" />
 	    	</a>
-	      	<a href="https://github.com/drypzz/rick-and-morty-api/">
+	      	<a href="https://github.com/drypzz/api-fivem/">
 	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-fivem&theme=dark" alt="GitHub Stats" />
 	    	</a>
 	      	<a href="https://github.com/drypzz/mta_res/">
