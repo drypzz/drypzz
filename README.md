@@ -66,29 +66,20 @@ My name is Gustavo and my nickname is "drypzz"!
 
 <details><summary><h3> :open_file_folder: - Repositórios</h3></summary>
 <div>
-  <p align="center">
-	    <a href="https://github.com/drypzz/drypzz.dev/">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=drypzz.dev&theme=dark" alt="GitHub Stats" />
-    	</a>
-	    <a href="https://github.com/drypzz/2022_">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=2022_&theme=dark" alt="GitHub Stats" />
-    	</a>
-	    <a href="https://github.com/drypzz/api-discover">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-discover&theme=dark" alt="GitHub Stats" />
-    	</a>
-	    <a href="https://github.com/drypzz/app-game/">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=app-game&theme=dark" alt="GitHub Stats" />
-    	</a>
-      <a href="https://github.com/drypzz/repo-rev/">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=repo-rev&theme=dark" alt="GitHub Stats" />
-    	</a>
-      <a href="https://github.com/drypzz/rick-and-morty-api/">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=rick-and-morty-api&theme=dark" alt="GitHub Stats" />
-    	</a>
-      <a href="https://github.com/drypzz/mta_res/">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=mta_res&theme=dark" alt="GitHub Stats" />
-    	</a>
-  </p>
+	<p align="center">
+		<a href="https://github.com/drypzz/drypzz.dev/">
+	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=drypzz.dev&theme=dark" alt="GitHub Stats" />
+	    	</a>
+		<a href="https://github.com/drypzz/api-discover">
+	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-discover&theme=dark" alt="GitHub Stats" />
+	    	</a>
+	      	<a href="https://github.com/drypzz/rick-and-morty-api/">
+	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-fivem&theme=dark" alt="GitHub Stats" />
+	    	</a>
+	      	<a href="https://github.com/drypzz/mta_res/">
+	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=mta_res&theme=dark" alt="GitHub Stats" />
+	    	</a>
+  	</p>
 </div>
 </details>
 
