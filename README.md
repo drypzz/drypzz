@@ -1,13 +1,12 @@
-<img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+<img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" min-width="500px" max-width="500px" width="500px" align="right" alt="Computer">
 
 [![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=drypzz)](https://github.com/drypzz)
 [![GitHub followers](https://img.shields.io/github/followers/drypzz.svg?style=social&label=Followers)](https://github.com/drypzz)
 
----
-
 <div align="center">
-	<img width="520px" src="https://readme-typing-svg.herokuapp.com/?color=359acc&size=40&center=true&vCenter=true&width=1000&lines=👋Hello!,+Welcome+to+my+Github+profile." />
-	<img width="520px" src="https://readme-typing-svg.herokuapp.com/?color=359acc&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Gustavo+and+my+nickname+is+'drypzz'" />
+	<img width="400px" src="https://readme-typing-svg.herokuapp.com/?color=359acc&size=35&center=true&vCenter=true&width=1000&lines=👋Hello!,+Welcome+to+my+Github+profile." />
+	<br>
+	<img width="400px" src="https://readme-typing-svg.herokuapp.com/?color=359acc&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Gustavo+and+my+nickname+is+'drypzz'" />
 </div>
 
 ---
