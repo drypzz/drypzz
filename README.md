@@ -53,7 +53,13 @@
 ---
 
 <details><summary><h3> :trophy: - Troféus do perfil Git </h3></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drypzz&layout=compact&theme=onedark&column=4&margin-w=15&margin-h=15" alt="Z4Dev" /></a> </p>
+<div>
+	<p align="center">
+		<a href="https://github.com/ryo-ma/github-profile-trophy">
+			<img src="https://github-profile-trophy.vercel.app/?username=drypzz&layout=compact&theme=onedark&column=4&margin-w=15&margin-h=15" alt="Z4Dev" />
+		</a>
+	</p>
+</div>
 </details>
 
 ---
