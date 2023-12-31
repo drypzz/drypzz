@@ -5,8 +5,10 @@
 
 ---
 
-### 👋 Hello! Welcome to my Github profile.
-My name is Gustavo and my nickname is "drypzz"!
+<div align="center">
+	<img width="520px" src="https://readme-typing-svg.herokuapp.com/?color=359acc&size=40&center=true&vCenter=true&width=1000&lines=👋Hello!,+Welcome+to+my+Github+profile." />
+	<img width="520px" src="https://readme-typing-svg.herokuapp.com/?color=359acc&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Gustavo+and+my+nickname+is+'drypzz'" />
+</div>
 
 ---
 
@@ -68,16 +70,16 @@ My name is Gustavo and my nickname is "drypzz"!
 <div>
 	<p align="center">
 		<a href="https://github.com/drypzz/drypzz.dev/">
-	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=drypzz.dev&theme=dark" alt="GitHub Stats" />
+	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=drypzz.dev&theme=onedark" alt="GitHub Stats" />
 	    	</a>
 		<a href="https://github.com/drypzz/api-discover">
-	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-discover&theme=dark" alt="GitHub Stats" />
+	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-discover&theme=onedark" alt="GitHub Stats" />
 	    	</a>
 	      	<a href="https://github.com/drypzz/api-fivem/">
-	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-fivem&theme=dark" alt="GitHub Stats" />
+	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-fivem&theme=onedark" alt="GitHub Stats" />
 	    	</a>
 	      	<a href="https://github.com/drypzz/mta_res/">
-	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=mta_res&theme=dark" alt="GitHub Stats" />
+	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=mta_res&theme=onedark" alt="GitHub Stats" />
 	    	</a>
   	</p>
 </div>
