@@ -39,6 +39,7 @@
   	<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=35 heigth=35 alt="CSS3" title="CSS3" /></a>
   	<a href="https://reactnative.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=35 heigth=35 alt="React Native" title="React Native" /></a>
   	<a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=35 heigth=35 alt="NextJS" title="NextJS" /></a>
+	<a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=35 heigth=35 alt="Typescript title="Typescript" /></a>
 </div>
 
 ---
