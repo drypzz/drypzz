@@ -29,7 +29,6 @@
 ### :clipboard: - Technologies ↴
 
 <div>
-	<a href="https://www.lua.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width=35 heigth=35 alt="Lua" title="Lua" /></a>
   	<a href="https://www.php.net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=35 heigth=35 alt="NodeJS" title="PHP" /></a>
 	<a href="https://nodejs.org/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=35 heigth=35 alt="PHP" title="NodeJS" /></a>
   	<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=35 heigth=35 alt="Javascript" title="Javascript" /></a>
