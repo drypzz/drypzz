@@ -1,5 +1,6 @@
 [![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=drypzz)](https://github.com/drypzz)
 [![GitHub followers](https://img.shields.io/github/followers/drypzz.svg?style=social&label=Followers)](https://github.com/drypzz)
+[![Wakatime](https://wakatime.com/badge/user/018de1f8-e316-43d9-8dda-78d9455e5e0d.svg)](https://wakatime.com/@drypzz)
 
 <div align="center">
 	<img width="520px" src="https://readme-typing-svg.herokuapp.com/?color=359acc&size=35&center=true&vCenter=true&width=1000&lines=👋Hello!,+Welcome+to+my+Github+profile." />
