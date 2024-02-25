@@ -55,7 +55,7 @@
 <div>
 	<p align="center">
 		<a href="https://github.com/ryo-ma/github-profile-trophy">
-			<img src="https://github-profile-trophy.vercel.app/?username=drypzz&layout=compact&theme=onedark&column=4&margin-w=15&margin-h=15" alt="Z4Dev" />
+			<img src="https://github-profile-trophy.vercel.app/?username=drypzz&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Z4Dev" />
 		</a>
 	</p>
 </div>
@@ -67,16 +67,16 @@
 <div>
 	<p align="center">
 		<a href="https://github.com/drypzz/drypzz.dev/">
-	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=drypzz.dev&theme=onedark" alt="GitHub Stats" />
+	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=drypzz.dev&theme=tokyonight" alt="GitHub Stats" />
 	    	</a>
 		<a href="https://github.com/drypzz/api-discover">
-	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-discover&theme=onedark" alt="GitHub Stats" />
+	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-discover&theme=tokyonight" alt="GitHub Stats" />
 	    	</a>
 	      	<a href="https://github.com/drypzz/api-fivem/">
-	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-fivem&theme=onedark" alt="GitHub Stats" />
+	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-fivem&theme=tokyonight" alt="GitHub Stats" />
 	    	</a>
 	      	<a href="https://github.com/drypzz/mta_res/">
-	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=mta_res&theme=onedark" alt="GitHub Stats" />
+	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=coderockr-frontTest&theme=tokyonight" alt="GitHub Stats" />
 	    	</a>
   	</p>
 </div>
