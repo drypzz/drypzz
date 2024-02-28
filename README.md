@@ -58,7 +58,7 @@
 	</summary>
 <div>
 	<p align="center">
-		<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<a href="https://github.com/drypzz">
 			<img src="https://github-profile-trophy.vercel.app/?username=drypzz&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Z4Dev" />
 		</a>
 	</p>
