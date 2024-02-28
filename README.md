@@ -52,7 +52,10 @@
 
 ---
 
-<details><summary><h3> :trophy: - Troféus do perfil Git </h3></summary>
+<details>
+	<summary>
+		<strong>:trophy: - Troféus</strong>
+	</summary>
 <div>
 	<p align="center">
 		<a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -64,7 +67,10 @@
 
 ---
 
-<details><summary><h3> :open_file_folder: - Repositórios</h3></summary>
+<details>
+	<summary>
+		<strong>:open_file_folder: - Repositórios</strong>
+	</summary>
 <div>
 	<p align="center">
 		<a href="https://github.com/drypzz/drypzz.dev/">
