@@ -82,7 +82,7 @@
 	      	<a href="https://github.com/drypzz/api-fivem/">
 	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-fivem&theme=tokyonight" alt="GitHub Stats" />
 	    	</a>
-	      	<a href="https://github.com/drypzz/mta_res/">
+	      	<a href="https://github.com/drypzz/coderockr-frontTest/">
 	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=coderockr-frontTest&theme=tokyonight" alt="GitHub Stats" />
 	    	</a>
   	</p>
