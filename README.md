@@ -57,6 +57,7 @@
 		<strong>:trophy: - Troféus</strong>
 	</summary>
 <div>
+	<br />
 	<p align="center">
 		<a href="https://github.com/drypzz">
 			<img src="https://github-profile-trophy.vercel.app/?username=drypzz&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Z4Dev" />
@@ -72,6 +73,7 @@
 		<strong>:open_file_folder: - Repositórios</strong>
 	</summary>
 <div>
+	<br />
 	<p align="center">
 		<a href="https://github.com/drypzz/drypzz.dev/">
 	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=drypzz.dev&theme=tokyonight" alt="GitHub Stats" />
@@ -82,14 +84,9 @@
 	      	<a href="https://github.com/drypzz/api-fivem/">
 	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=api-fivem&theme=tokyonight" alt="GitHub Stats" />
 	    	</a>
-	      	<a href="https://github.com/drypzz/coderockr-frontTest/">
-	      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=drypzz&repo=coderockr-frontTest&theme=tokyonight" alt="GitHub Stats" />
-	    	</a>
   	</p>
 </div>
 </details>
-
----
 
 <div align="center">
   
