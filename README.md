@@ -54,7 +54,7 @@
 
 <details>
 	<summary>
-		<strong>:trophy: - Troféus</strong>
+		<strong>:trophy: - Trophy</strong>
 	</summary>
 <div>
 	<br />
@@ -70,7 +70,7 @@
 
 <details>
 	<summary>
-		<strong>:open_file_folder: - Repositórios</strong>
+		<strong>:open_file_folder: - Repositories</strong>
 	</summary>
 <div>
 	<br />
