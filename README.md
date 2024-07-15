@@ -94,10 +94,4 @@
   
 </div>
 
-<div align="center">
-	
-  <img src="https://raw.githubusercontent.com/drypzz/drypzz/output/snake.svg" alt="Snake animation" />
-  
-</div>
-
 © Made by drypzz
