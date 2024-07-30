@@ -141,7 +141,7 @@
 
 <div align="center">
   
-  <img height="500" src="https://github-readme-activity-graph.vercel.app/graph?username=drypzz&bg_color=0d1117&color=359acc&line=359acc&point=3dbaf5&area=true&hide_border=true" />
+  <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drypzz&bg_color=0d1117&color=359acc&line=359acc&point=3dbaf5&area=true&hide_border=true" />
   
 </div>
 
