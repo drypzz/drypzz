@@ -78,6 +78,8 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
 
 ###
@@ -93,13 +95,11 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=npm" height="30" alt="npm logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="10" />
