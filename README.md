@@ -69,7 +69,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="10" />
