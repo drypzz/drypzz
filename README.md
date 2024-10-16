@@ -121,7 +121,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=drypzz&theme=dracula&column=-1&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=drypzz&theme=transparent&column=-1&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
