@@ -71,6 +71,10 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vuejs" height="30" alt="vuejs logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
