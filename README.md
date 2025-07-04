@@ -2,7 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/drypzz.svg?style=social&label=Followers)](https://github.com/drypzz)
 [![Wakatime](https://wakatime.com/badge/user/018de1f8-e316-43d9-8dda-78d9455e5e0d.svg)](https://wakatime.com/@drypzz)
 
-<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
 ###
 
@@ -24,15 +24,15 @@
 
 <div align="left">
   <a href="https://www.instagram.com/_gustavoaap/">  
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram" width="30" alt="instagram logo"  />
   </a>
   <img width="10" />
   <a href="https://www.facebook.com/igustavoaap">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" alt="facebook logo"  />
   </a>
   <img width="10" />
   <a href="https://www.linkedin.com/in/gustavoaap/">  
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="left">
   <a href="https://drypzz.netlify.app">  
-    <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
+    <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="30" alt="netlify logo"  />
   </a>
 </div>
 
@@ -63,29 +63,29 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="30" alt="nextjs logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" width="30" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" width="30" alt="css3 logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" width="30" alt="typescript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" width="30" alt="java logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vuejs" height="30" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=vuejs" width="30" alt="vuejs logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" width="30" alt="javascript logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="30" alt="nodejs logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" width="30" alt="react logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" width="30" alt="cplusplus logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" width="30" alt="python logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" width="30" alt="git logo"  />
 </div>
 
 ###
@@ -99,19 +99,19 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" width="30" alt="vscode logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=npm" height="30" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=npm" width="30" alt="npm logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" width="30" alt="firebase logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=powershell" width="30" alt="powershell logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" width="30" alt="github logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" width="30" alt="vercel logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
+  <img src="https://skillicons.dev/icons?i=netlify" width="30" alt="netlify logo"  />
 </div>
 
 ###
@@ -125,7 +125,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=drypzz&theme=transparent&column=-1&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=drypzz&theme=transparent&column=-1&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" width="100%" alt="trophy graph"  />
 </div>
 
 ###
@@ -139,16 +139,16 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=drypzz&theme=transparent" height="200" alt="stats graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drypzz&theme=transparent" height="200" alt="stats graph"  />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drypzz&theme=transparent" height="200" alt="stats graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=drypzz&theme=transparent" width="350" alt="stats graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drypzz&theme=transparent" width="350" alt="stats graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drypzz&theme=transparent" height="400" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="center">
   
-  <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drypzz&bg_color=0d1117&color=359acc&line=359acc&point=3dbaf5&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drypzz&bg_color=0d1117&color=359acc&line=359acc&point=3dbaf5&area=true&hide_border=true" />
   
 </div>
 
