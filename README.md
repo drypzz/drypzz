@@ -148,8 +148,8 @@
 
 <div align="center">
   
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drypzz&bg_color=0d1117&color=359acc&line=359acc&point=3dbaf5&area=true&hide_border=true" />
-  
+   <!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drypzz&bg_color=0d1117&color=359acc&line=359acc&point=3dbaf5&area=true&hide_border=true" /> -->
+  <img src="https://raw.githubusercontent.com/drypzz/drypzz/output/snake.svg" alt="Snake animation" />
 </div>
 
 © Made by drypzz
