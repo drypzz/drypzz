@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-  <a href="https://drypzz.netlify.app">  
+  <a href="https://drypzz.me/">  
     <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="30" alt="netlify logo"  />
   </a>
 </div>
